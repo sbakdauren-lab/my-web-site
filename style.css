@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f9; /* Фон түсі [cite: 31] */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Қаріп [cite: 32] */
+    padding: 40px; /* Толтыру [cite: 33] */
+    color: #333; /* Мәтін түсі [cite: 31] */
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db; /* Жиек [cite: 33] */
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
